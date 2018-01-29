@@ -148,31 +148,31 @@ ent-v314-015:~ student$
 ==========
 9.  What key do I press to go to the previous command?
 ----------
-
+<UP>
 
 
 ==========
 10.  Name two flags that we used in this exercise.
 ----------
-
+"-" "_"
 
 
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
 ----------
-
+<TAB>
 
 
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
-
+ls
 
 
 ==========
 13.  Name one argument that we passed to the command.
 ----------
-
+-l
 
 
 ==========
@@ -182,7 +182,8 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
-
+-bash: foo: command not found
+ent-v314-015:~ student$ 
 
 
 ==========
