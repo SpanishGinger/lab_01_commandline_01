@@ -193,7 +193,8 @@ ent-v314-015:~ student$
 
 Copy and paste the output below.
 ----------
-
+mkdir: mauser: File exists
+ent-v314-015:~ student$ 
 
 
 ==========
@@ -203,3 +204,4 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+ls is the command, -a is the flag, Desktop is the arguement,$ is the prompt
